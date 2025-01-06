@@ -1,96 +1,96 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.3">
   <diagram name="Page-1" id="Y_N1YmV2fk1X-AtJih7-">
-    <mxGraphModel dx="1050" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KRXgc4Pb7JzF3FK8_VlL-1" value="AIA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KRXgc4Pb7JzF3FK8_VlL-1" value="AIA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="20" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-1" value="Provider Submits Claim" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-1" value="Provider Submits Claim" style="fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="70" width="225" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-2" value="Option 1: Discount by CMiC System" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-2" value="Option 1: Discount by CMiC System" style="fillColor=none;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="205" y="196" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-3" value="CMiC Adjudication &amp; Confirm Paid Amount" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-3" value="CMiC Adjudication &amp; Confirm Paid Amount" style="fillColor=none;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="205" y="364" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-4" value="Return Adjusted Paid Amount to Provider" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-4" value="Return Adjusted Paid Amount to Provider" style="fillColor=none;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="515" y="492" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-5" value="Option 2: Smart Claim Initial Discount Check" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-5" value="Option 2: Smart Claim Initial Discount Check" style="fillColor=none;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="515" y="364" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-6" value="Option 3: Smart Claim Initial Claim Balance Check" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-6" value="Option 3: Smart Claim Initial Claim Balance Check" style="fillColor=none;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="825" y="364" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-7" value="Option 4: Manage Discount Pool" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-7" value="Option 4: Manage Discount Pool" style="fillColor=none;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="40" y="492" width="260" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-8" value="Discount Process Complete" style="fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-8" value="Discount Process Complete" style="fillColor=none;strokeColor=none;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="281" y="620" width="252" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-9" value="Route to CMiC System" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.07;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="q2YCbpQl8PcHzx33JAfB-1" target="q2YCbpQl8PcHzx33JAfB-2">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-9" value="Route to CMiC System" style="curved=1;startArrow=circle;startFill=0;endArrow=circle;endFill=0;exitX=0.07;exitY=1;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q2YCbpQl8PcHzx33JAfB-1" target="q2YCbpQl8PcHzx33JAfB-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="335" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-10" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="q2YCbpQl8PcHzx33JAfB-2" target="q2YCbpQl8PcHzx33JAfB-3">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-10" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q2YCbpQl8PcHzx33JAfB-2" target="q2YCbpQl8PcHzx33JAfB-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-11" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1.01;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="1" source="q2YCbpQl8PcHzx33JAfB-3" target="q2YCbpQl8PcHzx33JAfB-4">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-11" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1.01;entryX=0;entryY=0.16;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q2YCbpQl8PcHzx33JAfB-3" target="q2YCbpQl8PcHzx33JAfB-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="335" y="467" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-12" value="Route to Smart Claim" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.66;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="q2YCbpQl8PcHzx33JAfB-1" target="q2YCbpQl8PcHzx33JAfB-5">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-12" value="Route to Smart Claim" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.66;exitY=1;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q2YCbpQl8PcHzx33JAfB-1" target="q2YCbpQl8PcHzx33JAfB-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="q2YCbpQl8PcHzx33JAfB-5" target="q2YCbpQl8PcHzx33JAfB-4">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q2YCbpQl8PcHzx33JAfB-5" target="q2YCbpQl8PcHzx33JAfB-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-14" value="Initial Claim Balance Check" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.84;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="q2YCbpQl8PcHzx33JAfB-1" target="q2YCbpQl8PcHzx33JAfB-6">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-14" value="Initial Claim Balance Check" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=1;exitY=0.84;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q2YCbpQl8PcHzx33JAfB-1" target="q2YCbpQl8PcHzx33JAfB-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="955" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.16;rounded=0;" edge="1" parent="1" source="q2YCbpQl8PcHzx33JAfB-6" target="q2YCbpQl8PcHzx33JAfB-4">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.16;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q2YCbpQl8PcHzx33JAfB-6" target="q2YCbpQl8PcHzx33JAfB-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="955" y="467" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-16" value="Calculate &amp; Collect Discount" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0;exitY=0.84;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="q2YCbpQl8PcHzx33JAfB-1" target="q2YCbpQl8PcHzx33JAfB-7">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-16" value="Calculate &amp; Collect Discount" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0;exitY=0.84;entryX=0.5;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q2YCbpQl8PcHzx33JAfB-1" target="q2YCbpQl8PcHzx33JAfB-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-17" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1.01;entryX=0.01;entryY=0.01;rounded=0;" edge="1" parent="1" source="q2YCbpQl8PcHzx33JAfB-7" target="q2YCbpQl8PcHzx33JAfB-8">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-17" value="" style="curved=1;startArrow=none;endArrow=circle;endFill=0;exitX=0.5;exitY=1.01;entryX=0.01;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q2YCbpQl8PcHzx33JAfB-7" target="q2YCbpQl8PcHzx33JAfB-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="595" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q2YCbpQl8PcHzx33JAfB-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0.01;rounded=0;" edge="1" parent="1" source="q2YCbpQl8PcHzx33JAfB-4" target="q2YCbpQl8PcHzx33JAfB-8">
+        <mxCell id="q2YCbpQl8PcHzx33JAfB-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="q2YCbpQl8PcHzx33JAfB-4" target="q2YCbpQl8PcHzx33JAfB-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="645" y="595" />
