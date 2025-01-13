@@ -1,5 +1,1 @@
-After reviewing the activities proposed by the Data PM team, I would like to share some important points:
-Regarding TSS, while a BRD is not required, please ensure that you prepare detailed technical data requirements.
-As Dr. Somsakul is the owner of Health data, we will need to obtain their endorsement during the confirmation and testing phases.
-Test case scenarios should be prepared by business users - you may begin this preparation ahead of the UAT scheduled for March 24th.
-Since implementation will be completed in a single phase, please consider any potential additional requirements and raise them in advance.
+Test
